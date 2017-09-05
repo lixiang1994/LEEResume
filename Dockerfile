@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:14.04
 
 ENV GRAV_VERSION="1.3.2"
 
