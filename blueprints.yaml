@@ -1,0 +1,13 @@
+name: LEEResume
+version: 1.0.0
+description: "LEEResume is a Grav adaptation of Fernando Báez resume PSD theme."
+icon: group
+author:
+  name: LEE
+  email: 18611401994@163.com
+  url: https://www.lee1994.com
+homepage: https://github.com/lixiang1994/LEEResume
+demo: https://resume.lee1994.com/
+keywords: resume, resume, theme, modern
+bugs: https://github.com/lixiang1994/LEEResume/issues
+license: GUN
