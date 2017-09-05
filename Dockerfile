@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM alpine
 
 ENV GRAV_VERSION="1.3.2"
 

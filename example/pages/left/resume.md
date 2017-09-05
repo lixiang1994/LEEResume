@@ -10,7 +10,8 @@ address:
     - line: "出生于1994年7月"
     - line: "性别：男"
 contact: 
-    - line: "邮箱：手机号+@163.com"
+    - line: "邮箱："
+    - line: "18611401994@163.com"
     - line: "手机：18611401994"
 social:
     - line: "微信：LEE-Lixiang"
