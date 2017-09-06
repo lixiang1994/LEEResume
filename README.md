@@ -161,6 +161,12 @@ docker commit 9f13d494d0c7 alpine-resume
 sh start.h
 ```
 
+
+## 使用
+
+配置中默认在`home/resume`目录中存放内容文件, 如需修改内容可直接在该目录中的`pages`目录内修改, 实时生效.
+
+
 ## 相关
 
 该主题参考自[grav-theme-resume](https://github.com/getgrav/grav-theme-resume) 并在其基础上做了优化和调整.
