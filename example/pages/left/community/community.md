@@ -1,13 +1,14 @@
 ---
 title: 社区经验
 icon: social-github
-date: 16:24 08/29/2017 
+date: 00:01 09/01/2017 
 taxonomy:
     category: left
 ---
 
 Github：
-[![img/github.svg](https://resume.zuolan.me/user/themes/zresume/img/github.svg)](https://github.com/lixiang1994)
+
+[![img/github.svg](https://resume.zuolan.me/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
 
 ----
 

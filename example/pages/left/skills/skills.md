@@ -1,7 +1,7 @@
 ---
 title: 技能评价
 icon: star
-date: 00:00 09/01/2017
+date: 00:02 09/01/2017
 
 column1_name: 编程技能
 column1_animation: fadeIn
@@ -25,8 +25,8 @@ column1:
     level: 2
   - name: "C#"
     level: 2
-  - name: "HTML5"
-    level: 5
+  - name: "Docker"
+    level: 1
 
 column2_name: 自我评价
 column2_animation: fadeIn

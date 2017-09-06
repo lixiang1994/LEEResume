@@ -1,7 +1,7 @@
 ---
 title: 我的简历 | 李响
 name: 李响
-description: LEE & iOS
+description: iOS & 北京
 
 pdf_url: "https://cdn.zuolan.me/resume.pdf"
 blog_url: "http://www.lee1994.com"
@@ -10,9 +10,8 @@ address:
     - line: "出生于1994年7月"
     - line: "性别：男"
 contact: 
-    - line: "邮箱："
-    - line: "18611401994@163.com"
     - line: "手机：18611401994"
+    - line: "邮箱：18611401994@163.com"
 social:
     - line: "微信：LEE-Lixiang"
     - line: "QQ：332459523"

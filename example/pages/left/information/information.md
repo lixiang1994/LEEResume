@@ -1,7 +1,7 @@
 ---
 title: 个人简介
 icon: torso
-date: 00:00 09/01/2017
+date: 00:04 09/01/2017
 taxonomy:
     category: left
 ---
@@ -16,4 +16,4 @@ taxonomy:
 
 对于Java和Android有一些基础的了解，并且能够简单的开发一定程度的H5页面。
 
-热爱开源,常活跃在各大开源技术社区及群组,参与过拥有将近 5000 Star的开源项目维护[SDAutoLayout](https://github.com/gsdios/SDAutoLayout) 并在该开源群内担任管理**
+热爱开源,拥有自己的开源项目,常活跃在各大开源技术社区及群组,现参与拥有将近 5000 Star的开源项目维护[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)**
