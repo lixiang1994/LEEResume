@@ -167,6 +167,14 @@ sh start.h
 配置中默认在`home/resume`目录中存放内容文件, 如需修改内容可直接在该目录中的`pages`目录内修改, 实时生效.
 
 
+## 额外
+
+获取GitHub日历SVG
+
+```
+curl https://github.com/lixiang1994 | awk '/<svg.+class="js-calendar-graph-svg"/,/svg>/' | sed -e 's|<svg|<svg xmlns="http://www.w3.org/2000/svg"|' | sed '/text/'d > github.svg
+```
+
 ## 相关
 
 该主题参考自[grav-theme-resume](https://github.com/getgrav/grav-theme-resume) 并在其基础上做了优化和调整.
