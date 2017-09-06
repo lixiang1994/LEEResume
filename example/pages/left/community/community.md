@@ -8,7 +8,7 @@ taxonomy:
 
 Github：
 
-[![img/github.svg](https://resume.lee1994.com/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
+[![img/github.svg](http://resume.lee1994.com/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
 
 ----
 
