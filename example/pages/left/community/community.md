@@ -7,7 +7,6 @@ taxonomy:
 ---
 
 Github：
-
 [![img/github.svg](http://www.lee1994.com:8080/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
 
 ----

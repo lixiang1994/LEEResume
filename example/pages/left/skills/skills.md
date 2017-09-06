@@ -27,6 +27,8 @@ column1:
     level: 2
   - name: "Docker"
     level: 1
+  - name: "Linux"
+    level: 3
 
 column2_name: 自我评价
 column2_animation: fadeIn
