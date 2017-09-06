@@ -6,7 +6,7 @@ taxonomy:
     category: left
 ---
 
-**李响 目前就职于北京迷彩虎科技有限公司(原米尔网) iOS高级工程师一职，主攻iOS客户端开发及相关技术。
+__ 李响 目前就职于北京迷彩虎科技有限公司(原米尔网) iOS高级工程师一职，主攻iOS客户端开发及相关技术。
 
 自2011年开始接触编程，12年自学java入门 13年开始iOS开发 至今已有5年+编程经验 拥有扎实的面向对象编程思想，熟练掌握Objective-C等开发语言和常用系统框架 熟练使用Xcode Instruments等开发工具 。深入理解iOS运行机制，注重代码规范 致力于化繁为简的编码理念。
 
@@ -16,4 +16,4 @@ taxonomy:
 
 对于Java和Android有一些基础的了解，并且能够简单的开发一定程度的H5页面。
 
-热爱开源,拥有自己的开源项目,常活跃在各大开源技术社区及群组,现参与拥有将近 5000 Star的开源项目维护[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)**
+热爱开源,拥有自己的开源项目,常活跃在各大开源技术社区及群组,现参与拥有将近 5000 Star的开源项目维护[SDAutoLayout](https://github.com/gsdios/SDAutoLayout) __
