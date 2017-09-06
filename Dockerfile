@@ -1,33 +1,8 @@
-FROM alpine
+FROM alpine-resume
 
 ENV GRAV_VERSION="1.3.2"
 
-RUN apk update && \
-    # Install build dependencies 
-    apk add --no-cache -u --virtual build curl zip && \
-    # Install PHP Env
-    apk add --no-cache nginx ca-certificates \
-    php7-fpm \
-    php7-mbstring \
-    php7-json \
-    php7-session \
-    php7-zlib \
-    php7-xml \
-    php7-xmlreader \
-    php7-pdo \
-    php7-phar \
-    php7-openssl \
-    php7-gd \
-    php7-iconv \
-    php7-mcrypt \
-    php7-ctype \
-    php7-zip \
-    php7-curl \
-    php7-opcache \
-    php7-apcu \
-    php7-intl \
-    php7-bcmath \
-    php7-dom && \
+RUN \
     # Download Grav
     mkdir -p /usr/html && \
     curl -fLk -o /tmp/grav.zip  "https://github.com/getgrav/grav/releases/download/$GRAV_VERSION/grav-v$GRAV_VERSION.zip" && \
