@@ -5,7 +5,8 @@
 ----
 
 
-##准备
+## 准备
+
 
 
 快速安装Docker并启动运行.
@@ -26,7 +27,7 @@ wget https://github.com/lixiang1994/LEEResume/archive/master.zip
 unzip master.zip
 ```
 
-##常用命令
+## 常用命令
 
 
 查看Docker镜像
@@ -71,7 +72,7 @@ docker stop 5f84e6736be9
 docker --help
 ```
 
-##开始
+## 开始
 
 
 添加Alpine基础镜像并进入交互环境
@@ -160,7 +161,7 @@ docker commit 9f13d494d0c7 alpine-resume
 sh start.h
 ```
 
-##相关
+## 相关
 
 该主题参考自[grav-theme-resume](https://github.com/getgrav/grav-theme-resume) 并在其基础上做了优化和调整.
 
