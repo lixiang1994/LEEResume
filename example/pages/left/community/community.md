@@ -8,15 +8,14 @@ taxonomy:
 
 Github：
 
-[![img/github.svg](https://resume.zuolan.me/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
+[![img/github.svg](https://resume.lee1994.com/user/themes/leeresume/img/github.svg)](https://github.com/lixiang1994)
 
 ----
 
-| 领域    | 日常社区活动                                   |
+| 平台    | 日常社区活动                                   |
 | ----- | ---------------------------------------- |
-| Linux | 日常维护一些AUR上的软件包更新；积极参与Linux社区内测，活跃于社区Stack、Gitter甚至IRC频道。 |
-| 容器    | 积极向容器生态项目提交代码、反馈问题；日常更新各类社区Docker镜像；维护一批Web应用与基础镜像的Dockerfile[^1]；保持关注容器安全问题，及时反馈[^2]社区。 |
-| 其他    | 通过Transifex与Weblate参与开源软件的汉化；翻译部分Go语言教程；补充、维护社区文档。 |
+| StackOverflow | 查找一些平时罕见的问题 分析其他开发者们的回答 并做一些实验验证。 |
+| CocoaChina    | 关注最新的技术资讯,了解近期行业动向,帮助别人解决一些自己曾经遇到过的问题。 |
+| Code4App    | 发布一些自己开发的demo 同时也阅读一些优秀的demo代码等。 |
+| 简书    | 总结一些自己的开发心得和经验写成文章,阅读其他优秀的技术文章开阔自己的眼界。 |
 
-[^1]: 私人创建部分：[dockerfiles](https://github.com/izuolan/dockerfiles)
-[^2]: 早期Docker的chroot提权、Swarm的Socket连接等突出的安全问题都有向社区反馈（非PR）。
