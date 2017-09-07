@@ -16,7 +16,7 @@ column1:
   - name: Java
     level: 3
   - name: "HTML & CSS"
-    level: 7
+    level: 6
   - name: C
     level: 5
   - name: SQL
