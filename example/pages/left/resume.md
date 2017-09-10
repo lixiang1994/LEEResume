@@ -3,7 +3,7 @@ title: 我的简历 | 李响
 name: 李响
 description: iOS & 北京
 
-pdf_url: ""
+pdf_url: "http://resume-resources.lee1994.com/%E7%AE%80%E5%8E%86-%E6%9D%8E%E5%93%8D-PDF.pdf"
 blog_url: "http://www.lee1994.com"
 
 address:
